@@ -69,7 +69,7 @@ It supports native VS Code commands like:
 # Installing
 
 Just install it from <a title="Microsoft Visualstudio marketplace" href="https://marketplace.visualstudio.com/items?itemName=rub3r0id.openholdem-syntax-highlighter">marketplace</a>.
-It's required .NET and you have to install also <a title="Microsoft .NET Downloads" href="https://dotnet.microsoft.com/en-us/download/dotnet/7.0">.NET7.0</a>
+It's required .NET and you have to install <a title="Microsoft .NET Downloads" href="https://dotnet.microsoft.com/en-us/download/dotnet/7.0">.NET7.0</a>
 
 > **NOTE:** For now, it was tested on Windows and Mac, it should work on Linux. 
 
